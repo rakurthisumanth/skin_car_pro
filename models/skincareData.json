@@ -1,0 +1,42 @@
+{
+  "oily": {
+    "general": "Use lightweight, non-comedogenic products to prevent clogged pores. Cleanse twice daily to manage excess oil.",
+    "problems": {
+      "acne": "Look for salicylic acid or benzoyl peroxide treatments. Avoid heavy oils and stick to oil-free moisturizers.",
+      "blackheads": "Use a gentle exfoliant with BHA (salicylic acid) and avoid pore-clogging products.",
+      "large_pores": "Use niacinamide-based serums and clay masks weekly to minimize the appearance of pores."
+    }
+  },
+  "dry": {
+    "general": "Focus on hydrating products with hyaluronic acid and ceramides. Avoid harsh cleansers and hot water.",
+    "problems": {
+      "flakiness": "Apply a rich moisturizer and use gentle exfoliation to remove dead skin.",
+      "tightness": "Use a creamy cleanser and layer hydrating serums with glycerin or hyaluronic acid.",
+      "eczema": "Opt for fragrance-free, soothing creams with colloidal oatmeal or ceramides."
+    }
+  },
+  "combination": {
+    "general": "Balance your skincare by treating oily areas with lightweight products and dry areas with richer creams.",
+    "problems": {
+      "acne": "Spot-treat breakouts with salicylic acid and use a gel-based moisturizer for oily zones.",
+      "dullness": "Use gentle exfoliation and add a vitamin C serum to brighten skin.",
+      "uneven_texture": "Incorporate exfoliants and niacinamide to smoothen texture."
+    }
+  },
+  "sensitive": {
+    "general": "Use fragrance-free, hypoallergenic, and minimal-ingredient products. Always patch-test new items.",
+    "problems": {
+      "redness": "Look for soothing ingredients like aloe vera, chamomile, or centella asiatica.",
+      "irritation": "Avoid strong acids or retinoids; stick to calming creams.",
+      "allergic_reaction": "Discontinue irritating products and use barrier-repairing creams."
+    }
+  },
+  "normal": {
+    "general": "Maintain balance with a gentle cleanser, lightweight moisturizer, and sunscreen daily.",
+    "problems": {
+      "dullness": "Add exfoliation and vitamin C serum to restore glow.",
+      "fine_lines": "Introduce retinol gradually and use hydrating serums.",
+      "dark_spots": "Incorporate niacinamide or vitamin C, and always use sunscreen."
+    }
+  }
+}
